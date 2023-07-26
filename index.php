@@ -46,7 +46,7 @@
 
 
                     <div class="row justify-content-center mb-3">
-                            <div class="col-lg-8">
+                            <div class="col-lg-8 col-lg-4">
                                 <button class="btn btn-green" onclick="newMessages()" type="submit" style="width: 100%">Fact !</button>
                             </div>
                     </div>
